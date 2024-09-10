@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\A new beginning 💪\Level 4\Algorithms&ProblemSolving\Algorithms&ProblemSolving\Header.h(831,28): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\A new beginning 💪\Level 4\Algorithms&ProblemSolving\Algorithms&ProblemSolving\Header.h(868,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\A new beginning 💪\Level 4\Algorithms&ProblemSolving\Algorithms&ProblemSolving\Header.h(872,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Algorithms&ProblemSolving.vcxproj -> D:\A new beginning 💪\Level 4\Algorithms&ProblemSolving\x64\Debug\Algorithms&ProblemSolving.exe
